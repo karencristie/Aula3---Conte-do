@@ -1,0 +1,6 @@
+chuva = False
+
+if chuva:
+    print("Abrir o guarda-chuva")
+else:
+    print("Não está chovendo, guarde o guarda-chuva")
